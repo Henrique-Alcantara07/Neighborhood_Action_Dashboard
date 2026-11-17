@@ -8,15 +8,15 @@ O programa roda no terminal, com menu interativo, e usa apenas Python básico. N
 
 ## Equipe
 
-**Nome da equipe:** _(preencher)_
+**Nome da equipe:** 
 
 | Integrante | RM | Curso |
 | --- | --- | --- |
-| Henrique Floriano Alcantara | _(RM)_ | Ciência da Computação |
-| Nicolas França | _(RM)_ | Ciência da Computação |
-| Joao Pedro Candido Souza | _(RM)_ | Ciência da Computação |
-| Katia Regina Bispo | _(RM)_ | Ciência da Computação |
-| Yago Souza Araujo | _(RM)_ | Ciência da Computação |
+| Henrique Floriano Alcantara | 575651 | Ciência da Computação |
+| Nicolas França | 575343 | Ciência da Computação |
+| Joao Pedro Candido Souza | 575884 | Ciência da Computação |
+| Katia Regina Bispo | 576044 | Ciência da Computação |
+| Yago Souza Araujo | 575343 | Ciência da Computação |
 
 ## Comunidade simulada, problema e público beneficiado
 
