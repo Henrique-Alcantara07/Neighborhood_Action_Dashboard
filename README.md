@@ -8,7 +8,6 @@ O programa roda no terminal, com menu interativo, e usa apenas Python básico. N
 
 ## Equipe
 
-**Nome da equipe:** 
 
 | Integrante | RM | Curso |
 | --- | --- | --- |
