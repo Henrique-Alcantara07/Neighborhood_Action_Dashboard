@@ -4,7 +4,7 @@
 
 O **Neighborhood Action Dashboard** é um protótipo em Python que simula um painel comunitário de ocorrências. Ele permite registrar demandas de melhoria em bairros (iluminação, acessibilidade, limpeza e manutenção de espaços coletivos), consultar e filtrar os registros, atualizar a situação de cada demanda com histórico e acompanhar indicadores simples.
 
-O programa roda no terminal, com menu interativo, e usa apenas Python básico. Não há bibliotecas externas, banco de dados, APIs nem integração com órgãos públicos. O projeto também inclui um **notebook ** com o mesmo código, explicações passo a passo e demonstrações prontas.
+O programa roda no terminal, com menu interativo, e usa apenas Python básico. Não há bibliotecas externas, banco de dados, APIs nem integração com órgãos públicos. O projeto também inclui um **notebook Jupyter** com o mesmo código, explicações passo a passo e demonstrações prontas.
 
 ## Equipe
 
