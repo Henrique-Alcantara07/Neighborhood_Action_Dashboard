@@ -2,12 +2,11 @@
 
 **FIAP · Ciência da Computação · Global Solution 2026.2 · Fase 4**
 
-O **Neighborhood Action Dashboard** é um protótipo em Python que simula um painel comunitário de ocorrências. Ele permite registrar demandas de melhoria em bairros (iluminação, acessibilidade, limpeza e manutenção de espaços coletivos), consultar e filtrar os registros, atualizar a situação de cada demanda com histórico e acompanhar indicadores simples.
+O **Neighborhood Action Dashboard** é um protótipo desenvolvido em Python que reproduz um painel de ocorrências voltado para a comunidade. Por meio dele, é possível cadastrar solicitações de melhorias nos bairros — como iluminação, acessibilidade, limpeza e conservação de áreas coletivas —, consultar e filtrar os registros existentes, atualizar o status de cada solicitação com um histórico de alterações e acompanhar indicadores básicos.
 
-O programa roda no terminal, com menu interativo, e usa apenas Python básico. Não há bibliotecas externas, banco de dados, APIs nem integração com órgãos públicos. O projeto também inclui um **notebook Jupyter** com o mesmo código, explicações passo a passo e demonstrações prontas.
+O programa funciona no terminal, com um menu interativo, e emprega apenas Python básico. Não utiliza bibliotecas externas, banco de dados, APIs nem integração com órgãos públicos. O projeto inclui também um **notebook Jupyter** com o mesmo código, explicações passo a passo e demonstrações já preparadas.
 
 ## Equipe
-
 
 | Integrante | RM | Curso |
 | --- | --- | --- |
@@ -302,7 +301,7 @@ Todas as saídas acima foram geradas executando o próprio programa.
 - Não há controle de usuários nem de quem alterou cada status.
 - O identificador é sequencial (`tamanho da lista + 1`), o que funciona porque o sistema não permite excluir registros.
 
-**Aprendizados e evoluções possíveis.** A equipe praticou a escolha da estrutura certa para cada finalidade (a mesma ocorrência aparece na lista, no dicionário, na fila e na hierarquia, cada uma servindo a uma consulta diferente). Como evolução, seria possível salvar os registros em arquivo CSV, validar datas de forma mais completa, registrar a data real de conclusão para medir o tempo entre abertura e fechamento, e permitir "desfazer" a última alteração usando a pilha.
+**Lições aprendidas e melhorias futuras:** A equipe exercitou a seleção da estrutura adequada para cada objetivo (a mesma ocorrência aparece na lista, no dicionário, na fila e na hierarquia, cada uma atendendo a uma consulta diferente). Como próximo passo, seria possível gravar os registros em um arquivo CSV, fazer uma validação mais robusta das datas, armazenar a data efetiva de conclusão para calcular o intervalo entre abertura e encerramento, e possibilitar "desfazer" a última alteração por meio da pilha.
 
 ## Uso de inteligência artificial
 
