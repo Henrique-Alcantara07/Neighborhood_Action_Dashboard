@@ -30,6 +30,7 @@ A comunidade é **fictícia**: quatro locais genéricos (Bairro Aurora, Bairro H
 .
 ├── README.md
 ├── Sistema_NAD_Notebook.ipynb   # notebook com o mesmo código e explicações
+├── .gitignore
 ├── src/
 │   └── sistema.py               # programa principal
 └── docs/
